@@ -1,0 +1,16 @@
+[
+  {
+    "id": "17571475193665rfqjqyc0",
+    "buyerId": "1757147486764",
+    "buyerEmail": "syedkhizer2004@gmail.com",
+    "productId": "1",
+    "productTitle": "Vintage Leather Jacket",
+    "productPrice": 85,
+    "quantity": 1,
+    "totalAmount": 85,
+    "sellerId": "2",
+    "sellerEmail": "seller@demo.com",
+    "purchasedAt": "2025-09-06T08:31:59.366Z",
+    "status": "completed"
+  }
+]
