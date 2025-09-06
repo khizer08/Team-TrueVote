@@ -120,17 +120,5 @@
     "sellerEmail": "buyer@demo.com",
     "createdAt": "2024-02-05T10:30:00.000Z",
     "isAvailable": true
-  },
-  {
-    "id": "1757148202256",
-    "title": "phone",
-    "description": "phone ",
-    "category": "Electronics",
-    "price": 1000,
-    "imageUrl": "https://via.placeholder.com/300x200?text=No+Image",
-    "sellerId": "1757147486764",
-    "sellerEmail": "syedkhizer2004@gmail.com",
-    "createdAt": "2025-09-06T08:43:22.256Z",
-    "isAvailable": true
   }
 ]
