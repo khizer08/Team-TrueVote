@@ -128,29 +128,5 @@
     "sellerEmail": "buyer@demo.com",
     "createdAt": "2024-02-05T10:30:00.000Z",
     "isAvailable": true
-  },
-  {
-    "id": "1757163537033",
-    "title": "shirt",
-    "description": "denim",
-    "category": "Clothing",
-    "price": 10,
-    "imageUrl": "https://via.placeholder.com/300x200?text=No+Image",
-    "sellerId": "1757163475114",
-    "sellerEmail": "rahul@gmail.com",
-    "createdAt": "2025-09-06T12:58:57.033Z",
-    "isAvailable": true
-  },
-  {
-    "id": "1757164652296",
-    "title": "jeans",
-    "description": "denim",
-    "category": "Clothing",
-    "price": 10,
-    "imageUrl": "https://via.placeholder.com/300x200?text=No+Image",
-    "sellerId": "1757164617764",
-    "sellerEmail": "ramu@gmail.com",
-    "createdAt": "2025-09-06T13:17:32.296Z",
-    "isAvailable": true
   }
 ]
