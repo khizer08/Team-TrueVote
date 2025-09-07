@@ -91,17 +91,18 @@ const Footer = () => {
         </div>
 
         {/* Bottom Section */}
+        <div class="bottom">
         <div className="border-t border-gray-700 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">
-              © 2024 EcoFinds. All rights reserved.
+            <p className="copy text-gray-400 text-sm">
+              © 2025 EcoFinds. All rights reserved.
             </p>
-            <div className="flex items-center space-x-4 mt-4 md:mt-0">
-              <span className="text-gray-400 text-sm">Made with</span>
-              <i className="fas fa-heart text-red-500"></i>
-              <span className="text-gray-400 text-sm">for the environment</span>
-            </div>
+            <p className="copy text-gray-400 text-sm">
+              made with &hearts; by TrueVote
+            </p>
+            
           </div>
+        </div>
         </div>
       </div>
     </footer>
